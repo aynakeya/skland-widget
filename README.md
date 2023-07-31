@@ -58,6 +58,19 @@ https://localhost:5173/?use=ap,routinedaily&col=2#cred=your_cred&uid=1000000
 | trading        | 订单进度    |
 
 
+## 获取森空岛Credential方法
+
+**Method 1**
+
+参考 [skland-api](https://github.com/aynakeya/skland-api) 项目中的实现，用代码请求获取credential
+
+**Method 2**
+
+1. 登陆 [https://www.skland.com/](https://www.skland.com/) 打开开发者工具
+2. 手动复制请求header中的cred信息
+![a58e3c84d7e499871740b4b27020d7ba](https://github.com/aynakeya/skland-widget/assets/32156054/73028726-fd48-40b1-a621-683846cb9a33)
+
+
 ## 效果图
 
 ![IMG_6885](https://github.com/aynakeya/skland-widget/assets/32156054/c33efa50-5143-4f89-852d-c25d7a8b6812)
