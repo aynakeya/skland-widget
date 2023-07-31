@@ -85,6 +85,6 @@ https://localhost:5173/?use=ap,routinedaily&col=2#cred=your_cred&uid=1000000
 
 ## Credit
 
-前端设计: @404207
+前端设计: [@404207](https://github.com/404207)
 
-前端逻辑: @aynakeya
+前端逻辑: [@aynakeya](https://github.com/aynakeya)
