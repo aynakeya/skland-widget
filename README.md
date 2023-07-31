@@ -6,6 +6,8 @@
 
 
 **效果图**
+![IMG_6883(20230731-125341)](https://github.com/aynakeya/skland-widget/assets/32156054/a41d94a0-665d-4f32-ba57-752257af71f7)
+
 
 ## Run & Build
 
@@ -33,7 +35,7 @@ yarn run build
 ```
 https://localhost:5173/?use=ap,routinedaily&col=2#cred=your_cred&uid=1000000
 ```
-
+![Screenshot_20230731_152650](https://github.com/aynakeya/skland-widget/assets/32156054/2dfa1df5-9079-4131-b3be-813099875504)
 
 ## 目前支持的组件列表
 
@@ -55,6 +57,12 @@ https://localhost:5173/?use=ap,routinedaily&col=2#cred=your_cred&uid=1000000
 | tiredchars     | 干员疲劳    |
 | trading        | 订单进度    |
 
+
+## 效果图
+
+![IMG_6885](https://github.com/aynakeya/skland-widget/assets/32156054/c33efa50-5143-4f89-852d-c25d7a8b6812)
+![Screenshot_20230731_152712](https://github.com/aynakeya/skland-widget/assets/32156054/704279e4-6358-4098-aef9-efd05b749f2e)
+![Screenshot_20230731_152734](https://github.com/aynakeya/skland-widget/assets/32156054/b916f946-50b2-4ad4-b7b6-359f26558f52)
 
 
 ## Credit
