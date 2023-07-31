@@ -8,6 +8,11 @@
 **效果图**
 ![IMG_6883(20230731-125341)](https://github.com/aynakeya/skland-widget/assets/32156054/a41d94a0-665d-4f32-ba57-752257af71f7)
 
+## 在线Demo
+
+
+**随时关闭**
+[https://scene.aynakeya.com:10001/](https://scene.aynakeya.com:10001/)
 
 ## Run & Build
 
